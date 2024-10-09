@@ -27,7 +27,7 @@
 - Evening: Shyamala Prayaga (R 07:30PM - 09:20PM) | Remote  
 
 **Introduction to Machine Learning (Units: 6) | 49781**  
-- Evening: Karimulla Shaikh (M 05:30PM - 07:20PM) | Remote  
+- Evening: Karimulla Shaikh (M 05:30PM - 07:20PM) | Monday  
 
 **Artificial Intelligence for Product Managers (Units: 6) | 49784**  
 - Morning: Fang Fang (TR 12:30PM - 01:50PM) | Tuesday and Thursday  
