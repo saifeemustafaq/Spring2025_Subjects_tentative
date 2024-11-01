@@ -5,7 +5,7 @@
 - Evening: Gladys Mercier (T 05:30PM - 07:20PM) | Tuesday  
 
 **Product & Business Modeling (Units: 6) | 49756 [Mandatory]**  
-- Morning: Sheryl Root (TR 03:30PM - 04:50PM) | Tuesday and Thursday  
+- Morning: Fang Fang (TR 03:30PM - 04:50PM) | Tuesday and Thursday  
 - Evening: Fang Fang (W 07:30PM - 09:20PM) | Wednesday  
 
 **The Business of Software (Units: 6) | 49758 [Mandatory]**  
