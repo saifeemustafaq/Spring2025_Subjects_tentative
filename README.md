@@ -1,7 +1,5 @@
 # SPRING 2025
 
-NEW
----
 **Anything with A is Morning, B is Evening/Afternoon
 
 
