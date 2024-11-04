@@ -2,9 +2,8 @@
 
 NEW
 ---
-Anything with A 
-A is full semester
-A3 is mini3, A4 is mini4
+**Anything with A is Morning, B is Evening/Afternoon
+
 
 | Subject Name | Sub-Code | Code 1 | Code 2 | Code 3 | Faculty 1 | Faculty 2 | Notes |
 |--------------|----------|--------|--------|--------|-----------|-----------|-------|
