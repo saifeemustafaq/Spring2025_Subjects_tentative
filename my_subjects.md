@@ -37,8 +37,4 @@ NEW
 | Introduction to IoT | 49788 | A6 | R6 | Fang, Fang | | Summer all |
 
 
-**Legal Issues in New Venture Creation (Units: 6) | 49803**  
-- Morning: Matt Kirmayer (M 11:00AM - 01:50PM) | Monday  
-
-
 Source: https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search
