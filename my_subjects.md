@@ -23,39 +23,19 @@ NEW
 
 ---
 
-OLD
----
+# SUMMER 2025
 
-**Process and Project Management (Units: 12) | 49771 [Mandatory]**  
-- Morning: Gladys Mercier (TR 02:00PM - 03:20PM) | Tuesday and Thursday  
-- Evening: Gladys Mercier (T 05:30PM - 07:20PM) | Tuesday  
+| Subject Name | Sub-Code | Code 1 | Code 2 | Faculty 1 | Faculty 2 | Notes |
+|--------------|----------|--------|--------|-----------|-----------|-------|
+| Leadership & Teams | 49761 | A5 | R5 | Taborga, Jorge | | Summer all |
+| Organizational Behavior for High Tech Knowledge Industry | 49767 | A5 | R5 | Root, Sheryl | | Summer all |
+| Special Topics: Developing Blockchain Products | 49786 | A5 | R5 | Shaikh, Karimulla | | Summer all |
+| Architecture Principles for Product Managers | 49789 | A5 | R5 | Shaikh, Karimulla | | Summer all |
+| Special Topics: Next Gen CIO | 49765 | A6 | R6 | Evans, Stuart | | Summer all |
+| Agile Marketing for High Tech Innovation | 49766 | A6 | R6 | Root, Sheryl | | Summer all |
+| Introduction to Cloud Computing | 49783 | A6 | R6 | Fang, Fang | | Summer all |
+| Introduction to IoT | 49788 | A6 | R6 | Fang, Fang | | Summer all |
 
-**Product & Business Modeling (Units: 6) | 49756 [Mandatory]**  
-- Morning: Sheryl Root (TR 03:30PM - 04:50PM) | Tuesday and Thursday  
-- Evening: Fang Fang (W 07:30PM - 09:20PM) | Wednesday  
-
-**The Business of Software (Units: 6) | 49758 [Mandatory]**  
-- Morning: Ravi Thomas (MW 02:00PM - 03:20PM) | Monday and Wednesday  
-- Evening: Ravi Thomas (W 05:30PM - 07:20PM) | Wednesday  
-
-**Solution Strategy & Marketing (Units: 6) | 49757 [Mandatory]**  
-- Morning: Fang Fang (T 10:30AM - 12:20PM) | Tuesday  
-- Evening: Sheryl Root (R 05:30PM - 07:20PM) | Remote  
-
-**Metrics for Technology Products & Services (Units: 6) | 49770 [Mandatory]**  
-- Morning: Sheryl Root (TR 03:30PM - 04:50PM) | Tuesday and Thursday  
-- Evening: Jorge Taborga (W 05:30PM - 07:20PM) | Wednesday  
-
-**Human Computer Interaction & User Experience (Units: 6) | 49780**  
-- Evening: Shyamala Prayaga (R 07:30PM - 09:20PM) | Remote  
-
-**Artificial Intelligence for Product Managers (Units: 6) | 49784**  
-- Morning: Fang Fang (TR 12:30PM - 01:50PM) | Tuesday and Thursday  
-- Morning: Fang Fang (R 12:30PM - 01:50PM) | Remote  
-
-**Venture Governance: Executive-Decision Making, Fundraising, and Boards (Units: 6) | 49801**  
-- Morning: Adrian Ott (MW 11:00AM - 12:20PM) | Monday and Wednesday  
-- Morning: Adrian Ott (R 11:00AM - 12:20PM) | Remote  
 
 **Legal Issues in New Venture Creation (Units: 6) | 49803**  
 - Morning: Matt Kirmayer (M 11:00AM - 01:50PM) | Monday  
