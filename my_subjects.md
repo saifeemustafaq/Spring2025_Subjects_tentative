@@ -2,9 +2,6 @@
 
 NEW
 ---
-Here's the information converted into a markdown table:
-
-Certainly! I'll remove the "All Codes" column and add a new "Sub-Code" column with the 49XXX values. Here's the updated markdown table:
 
 | Subject Name | Sub-Code | Code 1 | Code 2 | Code 3 | Faculty 1 | Faculty 2 | Notes |
 |--------------|----------|--------|--------|--------|-----------|-----------|-------|
